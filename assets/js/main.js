@@ -4,7 +4,7 @@
 const firstName = prompt("Type your name");
 const lastName = prompt("Type your surname");
 const color = prompt("Type your favorite color");
-const psw = firstName + lastName + color + 27
+const psw = firstName + lastName + color + "27"
 
 // Stampare il risultato in console
 console.log(`${psw}`);
